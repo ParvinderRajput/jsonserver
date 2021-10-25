@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@test.com"
+    },
+    {
+      "id": 2,
+      "name": "Peter",
+      "email": "peter@test.com"
+    },
+    {
+      "name": "Prince",
+      "email": "prince@test.com",
+      "id": 3
+    },
+    {
+      "name": "John",
+      "email": "john@test.com",
+      "id": 4
+    },
+    {
+      "name": "ChetanRajput",
+      "email": "chetan@gmail.com",
+      "id": 5
+    }
+  ]
+}
