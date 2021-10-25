@@ -14,11 +14,6 @@
       "name": "Prince",
       "email": "prince@test.com",
       "id": 3
-    },
-    {
-      "name": "John",
-      "email": "john@test.com",
-      "id": 4
     }
   ]
 }
